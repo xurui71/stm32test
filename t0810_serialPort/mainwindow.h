@@ -36,4 +36,4 @@ private:
     Ui::MainWindow *ui;
     QSerialPort *serial;
 };
-#endif // MAINWINDOW_H
+#endif // MAINWINDOW_H   
